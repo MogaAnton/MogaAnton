@@ -48,6 +48,20 @@ An assistive hardware proximity-sensing cane built to provide real-time proactiv
 
 ---
 
+## 🔄 What I am up to nowadays
+
+* **🎓 Academic Focus at UTCN:** I am currently advancing through my curriculum at the Technical University of Cluj-Napoca. My recent academic deep dives are centered around learning **PLC Architecture and Applications** working in TIAPortal, **Hydro-Pneumatic Control Equipment** architecture, and **Real-Time-Systems**.
+* **💻 Project Developments:**
+    * Getting the finishing touches on my Industrial Informatics Project - A completely functional Car rental Web Application.
+    * Want to start a project using PLC's - An automated assembly line designed in TIAPortal.
+    * A 3D Modelling project using Fusion 360 is on its way.
+      
+* **📚 Current Technical Focus & Learning Goals:**
+    * Deepening my mastery of discrete-time system transformations (`c2d`) and numerical vectorization styles to run multi-variable control loops efficiently on low-power, constrained microcontrollers.
+    * Starting to work on my Licence Paper - in the field of Control Engineering and Bio-Medical Equipment.
+
+---
+
 ## 🎯 Goals & Aspirations
 
 * 🏎️ **Industrial & Automotive Integration:** My primary goal is to deploy complex control algorithms (like Field-Oriented Control for electric vehicles or state-space robotics arrays) onto rugged production microcontrollers.
